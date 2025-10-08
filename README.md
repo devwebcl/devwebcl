@@ -1,5 +1,5 @@
 <p align="center">
-  I am co-author of <em>Beginning C 7th</em> and <em>6th</em> editions<br><br>
+  I am the co-author of <em>Beginning C 7th</em> and <em>6th</em> editions<br><br>
 
   <table align="center" cellspacing="10">
     <tr>
